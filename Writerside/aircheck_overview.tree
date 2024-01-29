@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="aircheck_overview"
+                 name="AIRCHECK Overview"
+                 start-page="AIRCHECK.md">
+
+    <toc-element topic="Chemical-Representation.md"/>
+    <toc-element topic="Data-Overview.md"/>
+    <toc-element topic="Starting-with-ML.md"/>
+    <toc-element topic="AIRCHECK.md"/>
+    <toc-element topic="DEL.md"/>
+</instance-profile>
