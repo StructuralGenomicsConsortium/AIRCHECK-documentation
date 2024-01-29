@@ -7,8 +7,7 @@ While methods exist that can take graphs as an input (Graph Neural Networks for 
 > while the complete chemical structures will not be provided as they remain the intellectual properties
 > of the data providers. It is a violation of the AIRCHECK terms of agreement to try and determine chemical structure from these
 > fingerprints
-> 
-{style="warning"}
+> {style="warning"}
 
 There are several approaches to chemical fingerprinting. AIRCHECK uses up to 9 of these. Unless otherwise marked, all fingerprints are hashed/count versions:
 
