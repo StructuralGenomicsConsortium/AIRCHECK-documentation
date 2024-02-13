@@ -6,6 +6,7 @@
                  name="AIRCHECK Overview"
                  start-page="AIRCHECK.md">
 
+    <toc-element topic="DEL-Selections.md"/>
     <toc-element topic="Chemical-Representation.md"/>
     <toc-element topic="Data-Overview.md"/>
     <toc-element topic="Starting-with-ML.md"/>
