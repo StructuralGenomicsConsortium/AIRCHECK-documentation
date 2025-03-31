@@ -3,8 +3,11 @@
 ## Enantioselective Protein Affinity Selection Mass Spectrometry
 
 **What is EAS-MS?**
+
 EAS-MS is a recently developed high-throughput approach to find small molecules that bind to protein targets with enantioselective specificity (Wang et al., bioRxiv, 2025).
+
 **What is EAS-MS useful for?**
+
 This method is powerful for detecting weak binders and confirming true hits from false positives.
 
 **Lab Workflow of the EAS-MS Approach:**
