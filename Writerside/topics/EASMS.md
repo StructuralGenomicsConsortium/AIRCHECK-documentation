@@ -1,16 +1,16 @@
-# EAS-MS
+# E-ASMS
 
 ## Enantioselective Protein Affinity Selection Mass Spectrometry
 
-**What is EAS-MS?**
+**What is E-ASMS?**
 
-EAS-MS is a recently developed high-throughput approach to find small molecules that bind to protein targets with enantioselective specificity (Wang et al., bioRxiv, 2025).
+E-ASMS is a recently developed high-throughput approach to find small molecules that bind to protein targets with enantioselective specificity (Wang et al., bioRxiv, 2025).
 
-**What is EAS-MS useful for?**
+**What is E-ASMS useful for?**
 
 This method is powerful for detecting weak binders and confirming true hits from false positives.
 
-**Lab Workflow of the EAS-MS Approach:**
+**Lab Workflow of the E-ASMS Approach:**
 
 - **Step 1: Incubation:** The racemic compound library is mixed with immobilized purified polyhistidine-tagged proteins
 
@@ -44,7 +44,7 @@ This method is powerful for detecting weak binders and confirming true hits from
 
   > A measure of how strongly a compound binds to a specific protein compared to other proteins tested in parallel.
 
-- **Why should proteins be immobilized in EAS-MS?**
+- **Why should proteins be immobilized in E-ASMS?**
 
   > Proteins are immobilized to allow efficient separation of binders from non-binders during the washing steps, ensuring only strongly bound compounds remain for analysis.
 
